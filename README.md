@@ -54,11 +54,11 @@ I enjoy turning ideas into reliable, well-structured solutions.
 
 ### 🚀 Featured Projects
 
-| Project | Description | Tech |
+| Project | Description | Link |
 |---------|-------------|------|
-| *Coming soon* | Building something cool... | — |
+| **awesome-resources** | Curated list of useful tools, libraries & learning resources | [View](https://github.com/haminyovanantonyfk-netizen/awesome-resources) |
 
-> Star this profile or check back soon — new projects are on the way!
+> More projects coming soon — stay tuned!
 
 ---
 
